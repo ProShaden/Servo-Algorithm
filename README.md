@@ -7,14 +7,12 @@ This repository describes an algorithm to run servo motors.
 
 2- Drag arudino uno, servo motors, breadboard into the workspace.
 
-3- Connect servo to the negative at the breadboard.
+3- Connect servo's ground cable to the negative at the breadboard.
 
-4- Connect servo's ground cable to the GND at the arduino uno.
+4- Connect the servo's power cable to 5v at the arduino uno.
 
-5- Connect the servo's power cable to 5v at the arduino uno.
+5- Connect the servo's signal cable to ~9 pin at the arduino uno.
 
-6- Connect the servo's signal cable to ~9 pin at the arduino uno.
+6- Click on code button at the right top and program your circuit.
 
-7- Click on code button at the right top and program your circuit.
-
-8- Click on simulate to see your servo works.
+7- Click on simulate to see your servo works.
